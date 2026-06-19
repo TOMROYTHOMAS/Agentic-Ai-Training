@@ -1,0 +1,21 @@
+langgraph
+langchain
+langchain_community
+
+langchainhub
+ipykernel
+langchain-ollama
+langchain-core
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
+typesense
+langchain-openai
+langchain-text-splitters
+
+langchain-community faiss-cpu
+langchain-text-splitters
